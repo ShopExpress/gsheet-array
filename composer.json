@@ -1,5 +1,5 @@
 {
-    "name": "ychuperka/gsheet-to-array",
+    "name": "ychuperka/gsheet-array",
     "description": "A library to export data from Google`s Sheets as php array",
     "type": "library",
     "require": {
