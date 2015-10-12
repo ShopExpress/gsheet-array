@@ -2,6 +2,7 @@
     "name": "ychuperka/gsheet-array",
     "description": "A library to export data from Google`s Sheets as php array",
     "type": "library",
+    "varsion" : "0.9",
     "require": {
         "onoi/http-request": "^1.1"
     },
